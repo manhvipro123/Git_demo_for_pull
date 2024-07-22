@@ -1,5 +1,6 @@
 Name: Lu Lu
 Address: ITSS (Sai chỉnh tả, đã sửa)
-
+DOB: 12/01
 Chào anh !!! Cho em xin số làm quen <3
 Chào anh !!! Mời anh cút
+
